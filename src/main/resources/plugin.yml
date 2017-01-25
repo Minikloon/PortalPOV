@@ -1,0 +1,11 @@
+name: PortalView
+main: net.minikloon.PortalViewPlugin
+version: 1.0
+
+commands:
+  setportal:
+    description: Spawns a portal on your position
+    usage: /setportal
+  flashportal:
+    description: Colorizes blocks behind the portal from your pov
+    usage: /flashportal
